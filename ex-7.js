@@ -1,7 +1,6 @@
 //Start coding here
 const greeting = function () {
-  let message = console.log("Hello ! 😁");
-  return message;
+  return console.log("Hello ! 😁");
 };
 
 greeting();
